@@ -1,4 +1,6 @@
 # Contact Manager Application Backend in Node.js
+Uses Express server for server setup.
+
 Uses MongoDB as database for users and user contacts.
 
 User login/authorization done with JWT.
